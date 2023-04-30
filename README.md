@@ -1,8 +1,2 @@
-### Привет!  
-Я Евгений. Программирую на C#, C, C++, VB.NET  
-
-Сейчас работаю над:
->isEnjin  
-isEngine  
-Bi (BSL)  
-DPC
+Привет. Я Евгений. Программирую в основном на C#.<br>
+[Wiki](https://github.com/etar125/etar125/wiki)
