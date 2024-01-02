@@ -1,8 +1,7 @@
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+Программирую с 2018-19 года. Начинал с DevelStudio и C++.
+Программирую на: C#, VB.NET, C++, Python, немного C и ассемблер.
+Программирую под: Linux.
+Программирую в: MonoDevelop, Eclipse, Sublime Text, Visual Studio Code, Netbeans.
+Учил языки: F#, Java, J#, JavaScript, TypeScript, Ruby, Fortran, FreeBasic, FreePascal, QBasic, Quick Basic, Small Basic, Visual Basic, Delphi, PHP
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@etar125o)
-
-[Телега](https://t.me/etar125tg)
+Если чё, пишите в [ВК](https://vk.com/fanatscoc174)
