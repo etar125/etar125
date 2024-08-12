@@ -3,6 +3,6 @@
 Программирую под: Linux.  
 Программирую в: Nano, VSCodium.  
 
-Пользуюсь Devuan + Trinity.  
+Пользуюсь Devuan + Trinity и Artix + XFCE.  
   
 Если чё, пишите в [ВК](https://vk.com/fanatscoc174)
