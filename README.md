@@ -1,8 +1,3 @@
-Программирую с 2018-19 года. Начинал с DevelStudio и C++.  
-Программирую на: C++.  
-Программирую под: Linux.  
-Программирую в: Nano, VSCodium.  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Artix](https://img.shields.io/badge/Artix%20Linux-1793D1?logo=artix-linux&logoColor=fff&style=for-the-badge)
 
-Пользуюсь Devuan + Trinity и Artix + XFCE.  
-  
 Если чё, пишите в [ВК](https://vk.com/fanatscoc174)
